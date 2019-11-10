@@ -23,8 +23,7 @@
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-The goal of this minimalistic backend service is to provide a REST interface for a basic money transfer functionality.
-It is implemented as a solution for Revolut's take-away interview assignment. The requirements stated the following:
+The goal of this minimalistic backend service is to provide a REST interface for a basic money transfer functionality. The requirements stated the following:
 - Minimal framework support (no Spring!)
 - In-memory data storage
 - Executable as a standalone program
